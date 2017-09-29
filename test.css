@@ -4,6 +4,8 @@ background-color: green;
 h1 {
     color: darkred;
     text-align: center;
+    font-family: fantasy;
+    font-kerning: auto;
 }
 p{
   font-family: comic;
