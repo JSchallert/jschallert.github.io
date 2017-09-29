@@ -1,5 +1,5 @@
 body{
-background-color: green;
+background-color: lightblue;
 }
 h1 {
     color: darkred;
@@ -10,8 +10,7 @@ h1 {
 }
 p{
   text-align: center;
-  border: 20px solid pink;
-  font-family: sans-serif;
-  font-size: 14px;
+  border: 20px pink;
+  font-family: "Times New Roman", Times, serif;  font-size: 40px;
   padding: 50px 30px 50px 80px;
   }
