@@ -1,11 +1,9 @@
 .parent {
-    display: flex;
-}
+    display: flex;}
 .parent > div {
     display: inline-block;
     padding: 1em;
-    border: 2px solid #f00;
-}
+    border: 2px solid #f00;}
 
 body{
   margin: auto;
@@ -14,7 +12,7 @@ body{
 h1 {
     color: darkgray;
     font-family: verdana;
-    padding: 40px 20px 20px 30px;}
+    padding: 20px 20px 20px 30px;}
 
 p{
     text-align: 30%;
@@ -31,28 +29,43 @@ pre{
 }
 
 ul {
-  list-style-type:none;
+  display: block;
+  overflow: hidden;
   margin: 0;
   padding: 0;
-  width: 15%;
+  width: 8%;
   color: darkred;
   background-color: darkgray;
   position: fixed;
-  height: 100%;
-  overflow: auto;}
+  height: 100%;}
+
+li {
+  text-align: justify;
+  display:inline-block;
+  float:left;
+  margin-left: 0px;}
 
 li a {
   display: inline-block;
   width: 10%;
+  min-width: 100px;
+  height: 25px;
+  font-size: 18px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  line-height: 25px;
   background-color: darkgray;
   color: #7F1500;
-  padding: 8px 16px;}
+  padding: 6px 7px;
+  text-decoration: none;}
+
 
 li a.active {
-  width: 10%;
+  width: 8%;
   background-color: #400A00;
   color: gray;}
 
 li a:hover:not(.active) {
+  width: 8%;
   background-color: #7F1500;
   color: black;}
