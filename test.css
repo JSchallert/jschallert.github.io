@@ -42,7 +42,7 @@ ul {
   overflow: auto;}
 
 li a {
-  display: block;
+  display: inline-block;
   width: 10%;
   background-color: darkgray;
   color: #7F1500;
