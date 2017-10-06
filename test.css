@@ -29,9 +29,9 @@ li a {
   padding: 8px 16px;}
 
 li a.active {
-  background-color: #000FCC;
+  background-color: #00097F;
   color: black;}
 
 li a:hover:not(.active) {
-  background-color: #555;
+  background-color: #4C507f;
   color: white;}
