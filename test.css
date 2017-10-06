@@ -43,11 +43,13 @@ ul {
 
 li a {
   display: block;
+  width: 10%;
   background-color: darkgray;
   color: #7F1500;
   padding: 8px 16px;}
 
 li a.active {
+  width: 10%;
   background-color: #400A00;
   color: gray;}
 
