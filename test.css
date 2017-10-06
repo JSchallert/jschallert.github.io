@@ -26,7 +26,7 @@ p{
 pre{
     text-align: 20%;
     font-family: "Brush Script MT",cursive,sans-serif;
-    border: 20px lightblue;
+    border: 20px rgb(191,31,0);
     padding: 10px 10px 10px 10px;}
 }
 
@@ -43,13 +43,13 @@ ul {
 li a {
   display: block;
   background-color: darkgray;
-  color: #4C59FF;
+  color: #7F1500;
   padding: 8px 16px;}
 
 li a.active {
-  background-color: #00097F;
+  background-color: #400A00;
   color: gray;}
 
 li a:hover:not(.active) {
-  background-color: #4C507f;
+  background-color: #7F1500;
   color: black;}
