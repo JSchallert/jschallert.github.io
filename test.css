@@ -19,14 +19,14 @@ h1 {
 p{
     text-align: 30%;
     font-family: "Comic Sans MS", cursive, sans-serif;
-    border: 20px darkblue;
+    border: 20px darkred;
     padding: 10px 10px 20px 5px;}
 
 
 pre{
     text-align: 20%;
     font-family: "Brush Script MT",cursive,sans-serif;
-    border: 20px rgb(191,31,0);
+    border: 20px darkred;
     padding: 10px 10px 10px 10px;}
 }
 
@@ -35,6 +35,7 @@ ul {
   margin: 0;
   padding: 0;
   width: 15%;
+  colot: darkred;
   background-color: darkgray;
   position: fixed;
   height: 100%;
