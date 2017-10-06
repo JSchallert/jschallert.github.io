@@ -3,13 +3,12 @@ body{
   margin: inherit;}
 
 h1 {
-    text-align: left;
     color: darkred;
     font-family: verdana;
     padding: 50px 30px 50px 80px;}
 
 p{
-    text-align: center;
+    text-align: 30%;
     font-family: "Comic Sans MS", cursive, sans-serif;
     border: 20px pink;
     padding: 50px 30px 50px 80px;}
