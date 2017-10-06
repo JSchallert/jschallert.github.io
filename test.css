@@ -9,6 +9,12 @@ h1 {
     font-kerning: none;
     padding: 50px 30px 50px 80px;}
 
+p{
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border: 20px pink;
+    padding: 50px 30px 50px 80px;}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -22,8 +28,7 @@ ul {
 li a {
   display: block;
   color: #4C59FF;
-  padding: 8px 16px;
-  text-decoration: none;}
+  padding: 8px 16px;}
 
 li a.active {
   background-color: #000FCC;
@@ -32,8 +37,3 @@ li a.active {
 li a:hover:not(.active) {
   background-color: #555;
   color: white;}
-
-p{
-  text-align: center;
-  border: 20px pink;
-  padding: 50px 30px 50px 80px;}
