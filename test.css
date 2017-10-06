@@ -3,7 +3,7 @@ body{
   margin: inherit;}
 
 h1 {
-    color: darkred;
+    color: darkgray;
     font-family: verdana;
     padding: 50px 30px 50px 80px;}
 
@@ -30,8 +30,8 @@ li a {
 
 li a.active {
   background-color: #00097F;
-  color: black;}
+  color: gray;}
 
 li a:hover:not(.active) {
   background-color: #4C507f;
-  color: white;}
+  color: black;}
