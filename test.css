@@ -8,8 +8,8 @@
 }
 
 body{
-  background-color: darkgrey;
-  margin: inherit;}
+  margin: auto;
+  background-color: darkgrey;}
 
 h1 {
     color: darkgray;
@@ -19,19 +19,19 @@ h1 {
 p{
     text-align: 30%;
     font-family: "Comic Sans MS", cursive, sans-serif;
-    border: 20px darkred;
+    border: 10px darkred;
     padding: 10px 10px 20px 5px;}
 
 
 pre{
     text-align: 20%;
     font-family: "Brush Script MT",cursive,sans-serif;
-    border: 20px darkred;
+    border: 2px darkred;
     padding: 10px 10px 10px 10px;}
 }
 
 ul {
-  list-style-type: none;
+  list-style-type:none;
   margin: 0;
   padding: 0;
   width: 15%;
